@@ -15,7 +15,7 @@ bot.on('ready', () => {
 bot.on('message', msg=>{
 
     if(msg.content === "link"){
-        msg.channel.send("https://youtube.com/c/LonelyFN");
+        msg.channel.send("https://youtube.com/c/Lonely");
     }
 })
 
