@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 
-const token = 'NTkyNTg4MTQ2ODM5OTEyNDQ4.XRBjog.1j2osXf143gyOP6SkHPBV6ALBYU';
+const token = 'NTkyNTg4MTQ2ODM5OTEyNDQ4.XRBl8A.RI9Ixo6x9cg-HK7Tm-uK9s2_7t0';
 
 bot.on('ready', () => {
     console.log('YouTube Bot successfully executed online.');
